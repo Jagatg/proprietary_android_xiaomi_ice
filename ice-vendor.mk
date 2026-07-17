@@ -1386,6 +1386,7 @@ PRODUCT_PACKAGES += \
     TetheringResOverlay \
     com.fingerprints.extension \
     android.hardware.biometrics.fingerprint@2.1-service \
+    android.hardware.boot@1.2 \
     android.hardware.cas@1.2-service-lazy \
     android.hardware.dumpstate@1.1-service.xiaomi \
     android.hardware.health@2.1 \
